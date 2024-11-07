@@ -28,8 +28,12 @@ export default function EscrowPage() {
     <div>
       <div className="flex items-center justify-between">
         <h2 className="text-4xl font-bold text-purple-400">Escrow</h2>
-        <div className="w-12 h-12 bg-purple-200 rounded-full flex items-center justify-center text-purple-600">
-          Profile
+        <div className="w-12 h-12 bg-purple-200 rounded-full overflow-hidden">
+          <img
+            src="https://via.placeholder.com/48"
+            alt="Profile"
+            className="w-full h-full object-cover"
+          />
         </div>
       </div>
 
