@@ -10,6 +10,7 @@
 
 1. Liquidity Feedback Loop: As the user repeats transactions, they bring more liquidity into Babylon and Trustified Finance, creating a recurring cycle that benefits all participants.
 
+
 ![Trustified Finance.png](https://cdn.dorahacks.io/static/files/1930840b28285b9c1a06d3349af8e483.png)
 
 **How Trustified Finance Benefits everyone**:
