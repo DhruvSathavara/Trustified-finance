@@ -26,3 +26,18 @@
 **Who are target users of Trustified Finance?**
 
 The users of Trustified Finance are individuals who want to participate in marketplaces and businesses seeking to facilitate transactions in a secure, reliable way without relying on third parties.
+
+<img width="1468" alt="Screenshot 2024-11-08 at 3 09 17 AM" src="https://github.com/user-attachments/assets/00101826-03dd-479a-9a78-575a6922bbb5">
+
+<img width="1212" alt="Screenshot 2024-11-08 at 3 09 29 AM" src="https://github.com/user-attachments/assets/64936aca-f747-4682-aa1a-474cbd28fc74">
+
+<img width="1203" alt="Screenshot 2024-11-08 at 3 09 54 AM" src="https://github.com/user-attachments/assets/8e60f134-226a-4ea9-9115-c70942b877a2">
+
+<img width="602" alt="Screenshot 2024-11-08 at 3 10 06 AM" src="https://github.com/user-attachments/assets/67c45e1a-e5cf-40fd-b1da-8db924e306ee">
+
+<img width="599" alt="Screenshot 2024-11-08 at 3 10 14 AM" src="https://github.com/user-attachments/assets/a66a27d4-8a54-4430-8748-807d1233d5a2">
+
+
+
+
+
