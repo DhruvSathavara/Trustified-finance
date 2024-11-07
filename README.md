@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+**Trustified Finance** is a cross-chain escrow platform that enables secure marketplace transactions by leveraging dual staking. Users first stake assets on Babylon to earn rewards and build liquidity, then re-stake these assets in escrow contracts to secure deals. This approach boosts trust, maximizes staking rewards, and facilitates seamless, secure transactions across chains.
 
-## Getting Started
+**Trustified Finance Process Overview**
 
-First, run the development server:
+1. Asset Staking: A user stakes their assets (e.g., Bitcoin or Ethereum) on Babylon to start earning rewards.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+1. Marketplace Transaction: They initiate a marketplace transaction and lock their staked assets into escrow contract to secure the deal.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. Earning and Reputation Growth: Throughout the escrow period, they continue earning rewards and, upon successful contract completion, gain reputation points on Trustified Finance.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+1. Liquidity Feedback Loop: As the user repeats transactions, they bring more liquidity into Babylon and Trustified Finance, creating a recurring cycle that benefits all participants.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+![Trustified Finance.png](https://cdn.dorahacks.io/static/files/1930840b28285b9c1a06d3349af8e483.png)
 
-## Learn More
+**How Trustified Finance Benefits everyone**:
 
-To learn more about Next.js, take a look at the following resources:
+1. Users: Secure cross-chain transactions with dual staking rewards, reputation building, and enhanced trust for marketplace deals.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Babylon gains Increased liquidity and ecosystem growth, establishing Babylon as a trusted cross-chain staking hub.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. SatLayer: gains increased network usage and revenue through Trustified Finance high-volume transaction processing, which showcases SatLayer’s scalability.
 
-## Deploy on Vercel
+1. Trustified Finance: Trustified Finance gains increased user trust, revenue from fees, enhanced liquidity, and a central position in the multi-chain ecosystem, driving growth and broader adoption across blockchain marketplaces.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Who are target users of Trustified Finance?**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The users of Trustified Finance are individuals who want to participate in marketplaces and businesses seeking to facilitate transactions in a secure, reliable way without relying on third parties.
